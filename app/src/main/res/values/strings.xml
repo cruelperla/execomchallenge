@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="action_settings">Show Hidden Lists</string>
+    <string name="title_activity_item_add">Add Items</string>
+    <string name="title_activity_item_list">Item List</string>
+    <string name="title_activity_protected_list">Hidden Lists</string>
+</resources>
